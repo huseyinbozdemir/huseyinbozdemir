@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.jpg" width="100%" alt="Hüseyin Bozdemir — Backend Developer" /> </p>
+<p align="center"> <img src="banner.png" width="100%" alt="Hüseyin Bozdemir — Backend Developer" /> </p>
 About huseyinbozdemir:
 
 Backend Developer at Octet Türkiye — İstanbul, Türkiye
