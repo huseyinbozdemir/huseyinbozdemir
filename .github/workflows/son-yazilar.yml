@@ -1,0 +1,41 @@
+# README'deki son yazılar listesini sitenin RSS'inden günceller (.github/scripts/son-yazilar.mjs).
+# Site zamanlanmış yazıları 00:07'de (yedek 06:07, Türkiye saati) yayınlıyor; bu iş ondan sonra çalışır.
+name: Son yazılar
+
+on:
+  schedule:
+    - cron: '37 4 * * *' # 07:37 Türkiye saati (UTC+3)
+    - cron: '37 13 * * *' # 16:37, gün içinde elle yayınlanan yazılar ve gecikmiş zamanlanmış işler için
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: son-yazilar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Listeyi RSS'ten yenile
+        run: node .github/scripts/son-yazilar.mjs
+
+      - name: Değiştiyse commit'le
+        run: |
+          if git diff --quiet README.md; then
+            echo "Değişiklik yok"
+            exit 0
+          fi
+          git config user.name "Hüseyin Bozdemir"
+          git config user.email "78022702+huseyinbozdemir@users.noreply.github.com"
+          git add README.md
+          git commit -m "Son yazılar listesi güncellendi"
+          git push
