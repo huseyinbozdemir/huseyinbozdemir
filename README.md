@@ -15,10 +15,10 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 **Recent writing** (in Turkish) at [huseyinbozdemir.com](https://huseyinbozdemir.com)
 
 <!-- BLOG:START -->
+- [Idempotency key istemcide nerede üretilir?](https://huseyinbozdemir.com/blog/idempotency-key-istemcide-uretme)
 - [Outbox Pattern Nedir? Kuyruk Yokken Outbox](https://huseyinbozdemir.com/blog/outbox-pattern)
 - [IMemoryCache mi, HybridCache mi?](https://huseyinbozdemir.com/blog/imemorycache-hybridcache)
 - [C#'ta exception pahalı mı? .NET 10 ölçümleri](https://huseyinbozdemir.com/blog/csharp-exception-performansi)
-- [Idempotency: para iki kez çekilmesin](https://huseyinbozdemir.com/blog/idempotency-odeme-sistemleri)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
