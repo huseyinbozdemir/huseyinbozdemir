@@ -15,10 +15,10 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 **Recent writing** (in Turkish) at [huseyinbozdemir.com](https://huseyinbozdemir.com)
 
 <!-- BLOG:START -->
+- [Feature flag teknik borca nasıl dönüşür?](https://huseyinbozdemir.com/blog/feature-flag-teknik-borc)
 - [AI'ın yazdığı testler hatayı yakalar mı?](https://huseyinbozdemir.com/blog/ai-unit-test-mutation-testing)
 - [Log maskeleme: .NET'te kart numarası sızmasın](https://huseyinbozdemir.com/blog/log-maskeleme-kart-numarasi)
 - [Idempotency key istemcide nerede üretilir?](https://huseyinbozdemir.com/blog/idempotency-key-istemcide-uretme)
-- [Outbox Pattern Nedir? Kuyruk Yokken Outbox](https://huseyinbozdemir.com/blog/outbox-pattern)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
