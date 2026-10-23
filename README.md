@@ -16,9 +16,9 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 
 <!-- BLOG:START -->
 - [PHP2Shell nedir, açık nasıl çalışıyor?](https://huseyinbozdemir.com/blog/php2shell-php-guvenlik-acigi)
+- [REA nedir? Ajanla tersine mühendislik](https://huseyinbozdemir.com/blog/rea-tersine-muhendislik)
 - [Anthropic Scion nedir, git neden yetmedi?](https://huseyinbozdemir.com/blog/anthropic-scion-git)
 - [Feature flag teknik borca nasıl dönüşür?](https://huseyinbozdemir.com/blog/feature-flag-teknik-borc)
-- [AI'ın yazdığı testler hatayı yakalar mı?](https://huseyinbozdemir.com/blog/ai-unit-test-mutation-testing)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
