@@ -15,10 +15,10 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 **Recent writing** (in Turkish) at [huseyinbozdemir.com](https://huseyinbozdemir.com)
 
 <!-- BLOG:START -->
+- [EF Core performansı: Include mı, Select mi?](https://huseyinbozdemir.com/blog/ef-core-include-select)
 - [PHP2Shell nedir, açık nasıl çalışıyor?](https://huseyinbozdemir.com/blog/php2shell-php-guvenlik-acigi)
 - [REA nedir? Ajanla tersine mühendislik](https://huseyinbozdemir.com/blog/rea-tersine-muhendislik)
 - [Anthropic Scion nedir, git neden yetmedi?](https://huseyinbozdemir.com/blog/anthropic-scion-git)
-- [Feature flag teknik borca nasıl dönüşür?](https://huseyinbozdemir.com/blog/feature-flag-teknik-borc)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
