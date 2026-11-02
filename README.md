@@ -15,10 +15,10 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 **Recent writing** (in Turkish) at [huseyinbozdemir.com](https://huseyinbozdemir.com)
 
 <!-- BLOG:START -->
+- [SQL Server'da yavaş sorgu nasıl hızlandırılır?](https://huseyinbozdemir.com/blog/sql-server-yavas-sorgu)
 - [İnternet yokken kartla ödeme nasıl onaylanır?](https://huseyinbozdemir.com/blog/cevrimdisi-kart-odeme)
 - [Ajanlı ödeme nedir? Yapay zekâ nasıl öder?](https://huseyinbozdemir.com/blog/ajanli-odeme-nedir)
 - [EF Core performansı: Include mı, Select mi?](https://huseyinbozdemir.com/blog/ef-core-include-select)
-- [PHP2Shell nedir, açık nasıl çalışıyor?](https://huseyinbozdemir.com/blog/php2shell-php-guvenlik-acigi)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
