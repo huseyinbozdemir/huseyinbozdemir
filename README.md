@@ -18,7 +18,7 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 - [Ön provizyon nedir, kart neden bloke edilir?](https://huseyinbozdemir.com/blog/on-provizyon-nedir)
 - [Claude Fable 5.2 nedir? Fiyat, limit, farklar](https://huseyinbozdemir.com/blog/claude-fable-5-2)
 - [Loop engineering nedir, her işe değer mi?](https://huseyinbozdemir.com/blog/loop-engineering-nedir)
-- [.NET 11 çıkıyor, .NET 8 ve 9 bitiyor](https://huseyinbozdemir.com/blog/dotnet-8-9-destek-sonu)
+- [.NET 11 çıktı, .NET 8 ve 9 desteği bitti: ne yapmalı?](https://huseyinbozdemir.com/blog/dotnet-8-9-destek-sonu)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
