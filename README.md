@@ -15,10 +15,10 @@ I try what's new in .NET against the realities of payment systems, measure it, a
 **Recent writing** (in Turkish) at [huseyinbozdemir.com](https://huseyinbozdemir.com)
 
 <!-- BLOG:START -->
+- [Webhook nedir, gelmezse ne yapmalı?](https://huseyinbozdemir.com/blog/webhook-gelmezse)
 - [Aynı bakiyeden iki kez harcama nasıl önlenir?](https://huseyinbozdemir.com/blog/bakiye-iki-kez-harcama)
 - [Ön provizyon nedir, kart neden bloke edilir?](https://huseyinbozdemir.com/blog/on-provizyon-nedir)
 - [Claude Fable 5.2 nedir? Fiyat, limit, farklar](https://huseyinbozdemir.com/blog/claude-fable-5-2)
-- [Loop engineering nedir, her işe değer mi?](https://huseyinbozdemir.com/blog/loop-engineering-nedir)
 <!-- BLOG:END -->
 
 **Stack:** C# · .NET · EF Core · PostgreSQL · SQL Server · Redis · RabbitMQ · Hangfire · Elasticsearch · Docker
